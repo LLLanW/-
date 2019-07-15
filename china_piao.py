@@ -37,4 +37,4 @@ for x in low_price[:10]:
     print('价格:', x[4], '\t',x[1],'\t', x[2],'\t', x[0])
 print("中国演出票务网，在售最贵前10：")
 for x in high_price[-10:]:
-    print('价格:', x[3],'\t',x[1], '\t', x[2],'\t', x[0])``
+    print('价格:', x[3],'\t',x[1], '\t', x[2],'\t', x[0])
